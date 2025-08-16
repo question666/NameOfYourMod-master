@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\AboutVrising\\NameOfYourMod-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|d:\\aboutvrising\\nameofyourmod-master\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|d:\\aboutvrising\\nameofyourmod-master\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|d:\\aboutvrising\\nameofyourmod-master\\gameworldutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|solutionrelative:gameworldutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|d:\\aboutvrising\\nameofyourmod-master\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|solutionrelative:test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|d:\\aboutvrising\\nameofyourmod-master\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|d:\\aboutvrising\\nameofyourmod-master\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|solutionrelative:core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|d:\\aboutvrising\\nameofyourmod-master\\gameworldutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|solutionrelative:gameworldutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,36 +30,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test",
+              "DocumentMoniker": "D:\\AboutVrising\\NameOfYourMod-master\\Test.csproj",
+              "RelativeDocumentMoniker": "Test.csproj",
+              "ToolTip": "D:\\AboutVrising\\NameOfYourMod-master\\Test.csproj",
+              "RelativeToolTip": "Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T14:36:19.079Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GameWorldUtils.cs",
               "DocumentMoniker": "D:\\AboutVrising\\NameOfYourMod-master\\GameWorldUtils.cs",
               "RelativeDocumentMoniker": "GameWorldUtils.cs",
               "ToolTip": "D:\\AboutVrising\\NameOfYourMod-master\\GameWorldUtils.cs",
               "RelativeToolTip": "GameWorldUtils.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T12:12:45.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Plugin.cs",
               "DocumentMoniker": "D:\\AboutVrising\\NameOfYourMod-master\\Plugin.cs",
               "RelativeDocumentMoniker": "Plugin.cs",
               "ToolTip": "D:\\AboutVrising\\NameOfYourMod-master\\Plugin.cs",
               "RelativeToolTip": "Plugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:12:43.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T12:12:43.134Z"
             },
             {
               "$type": "Document",
@@ -71,15 +87,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Test.cs",
               "DocumentMoniker": "D:\\AboutVrising\\NameOfYourMod-master\\Test.cs",
               "RelativeDocumentMoniker": "Test.cs",
               "ToolTip": "D:\\AboutVrising\\NameOfYourMod-master\\Test.cs",
               "RelativeToolTip": "Test.cs",
-              "ViewState": "AgIAAAIBAAAAAAAAAAD4vxsBAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:05:35.009Z"
+              "WhenOpened": "2025-08-16T12:05:35.009Z",
+              "EditorCaption": ""
             }
           ]
         }

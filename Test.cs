@@ -1,14 +1,9 @@
 ﻿using ProjectM;
-using ProjectM.Shared;
-using ProjectM.Network;
-using ProjectM.Scripting;
 using Stunlock.Core;
 using System;
 using Unity.Collections;
 using Unity.Entities;
 using Unity.Mathematics;
-using Unity.Physics;
-using Unity.Physics.Systems;
 using Unity.Transforms;
 using VampireCommandFramework;
 
@@ -533,9 +528,8 @@ public  class ResourceCommands
                 em.SetComponentData(spawned, new Translation { Value = pos + offset });
             }
 
-            // 获取Prefab名称（安全）
-            string prefabName;
-     
+          
+
 
             // 成功提示
             string mode = radius > 0 ? $"圆圈 r={radius}" : $"直线 spacing={spacing}";
