@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AboutVrising\\NameOfYourMod-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|d:\\aboutvrising\\nameofyourmod-master\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|d:\\aboutvrising\\nameofyourmod-master\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|d:\\aboutvrising\\nameofyourmod-master\\gameworldutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|solutionrelative:gameworldutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|d:\\aboutvrising\\nameofyourmod-master\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CB755-154A-45BD-4B30-C030123AA28B}|Test.csproj|solutionrelative:core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameWorldUtils.cs",
+              "DocumentMoniker": "D:\\AboutVrising\\NameOfYourMod-master\\GameWorldUtils.cs",
+              "RelativeDocumentMoniker": "GameWorldUtils.cs",
+              "ToolTip": "D:\\AboutVrising\\NameOfYourMod-master\\GameWorldUtils.cs",
+              "RelativeToolTip": "GameWorldUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:12:45.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "D:\\AboutVrising\\NameOfYourMod-master\\Plugin.cs",
+              "RelativeDocumentMoniker": "Plugin.cs",
+              "ToolTip": "D:\\AboutVrising\\NameOfYourMod-master\\Plugin.cs",
+              "RelativeToolTip": "Plugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:12:43.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Core.cs",
+              "DocumentMoniker": "D:\\AboutVrising\\NameOfYourMod-master\\Core.cs",
+              "RelativeDocumentMoniker": "Core.cs",
+              "ToolTip": "D:\\AboutVrising\\NameOfYourMod-master\\Core.cs",
+              "RelativeToolTip": "Core.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:06:26.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\AboutVrising\\NameOfYourMod-master\\Test.cs",
+              "RelativeDocumentMoniker": "Test.cs",
+              "ToolTip": "D:\\AboutVrising\\NameOfYourMod-master\\Test.cs",
+              "RelativeToolTip": "Test.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAD4vxsBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:05:35.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
